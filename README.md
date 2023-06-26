@@ -2,11 +2,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p>
 
-- 📫 Mail **developer.wrona@gmail.com**
+- 💎 Discord: **Wrona#0655**
 
-- 😎 Fun fact **Crows are the most clever bird in the world!**
+- 📫 Mail: **developer.wrona@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+- 😎 Fun fact: **Crows are the most clever bird in the world!**
+
 <p align="left">
 </p>
 
