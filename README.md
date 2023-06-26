@@ -6,7 +6,7 @@
 
 - 📫 Mail: **developer.wrona@gmail.com**
 
-- 😎 Fun fact: **Crows are the most clever bird in the world!**
+- 😎 Fun fact: **Crows are the smartest birds in the world!**
 
 <p align="left">
 </p>
