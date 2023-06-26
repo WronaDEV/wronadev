@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p>
 
-- 📫 How to reach me **developer.wrona@gmail.com**
+- 📫 Mail **developer.wrona@gmail.com**
 
-- ⚡ Fun fact **Crows are the most clever bird in the world!**
+- 😎 Fun fact **Crows are the most clever bird in the world!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
