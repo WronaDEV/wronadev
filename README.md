@@ -1,7 +1,6 @@
 <h3 align="center">WebDeveloper / WebDesigner</h3>
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p>
--->
+
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p> -->
 - 💎 Discord: **Wrona#0655**
 
 - 📫 Mail: **developer.wrona@gmail.com**
