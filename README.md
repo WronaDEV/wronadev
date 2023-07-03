@@ -1,5 +1,5 @@
-<h2>Hi, I'm Wrona.</h2>
-<h3>WebDeveloper / WebDesigner</h3>
+<h3>👋 Hi, I'm Wrona.</h3>
+<h4>WebDeveloper / WebDesigner</h4>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p> -->
 - 💎 Discord: **Wrona#0655** | **wronadev**
