@@ -4,7 +4,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p> -->
 - 💎 Discord: **Wrona#0655** | **wronadev**
 
-- 📫 Mail: **developer.wrona@gmail.com**
+- 📫 Mail: **wronadev.contact@gmail.com**
 
 - 😎 Fun fact: **Crows are the smartest birds in the world!**
 
