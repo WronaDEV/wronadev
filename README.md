@@ -1,10 +1,10 @@
-<h3>👋 Hi, I'm Wrona.</h3>
-<h4>WebDeveloper / WebDesigner</h4>
+## 👋 Hi, I'm Wrona.
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=wronadev&label=Profile%20views&color=0e75b6&style=flat" alt="wronadev" /> </p> -->
-- 💎 Discord: **wronadev**
+``` 👽 WebDeveloper / 🎨 WebDesigner```
 
-- 📫 Mail: **wronadev.contact@gmail.com**
+- 💜 Discord: **wronadev**
+
+- 🧑‍💻 Now working at: ```Minecraft Plugins```
 
 - 😎 Fun fact: **Crows are the smartest birds in the world!**
 
