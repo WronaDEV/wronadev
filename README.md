@@ -4,7 +4,7 @@
 
 - 💜 Discord: **wronadev**
 
-- 🧑‍💻 Now working at: ```Minecraft Plugins```
+- 🧑‍💻 Now working at: ```Train Simulator```
 
 - 😎 Fun fact: **Crows are the smartest birds in the world!**
 
