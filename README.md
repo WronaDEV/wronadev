@@ -6,7 +6,7 @@
 
 - 👑 About me page: <b>[wronadev.github.io](https://wronadev.github.io)</b>
 
-- 😎 Fun fact: **Crows are the smartest birds in the world!**
+<!-- - 😎 Fun fact: **Crows are the smartest birds in the world!** -->
  </p>
 
   
